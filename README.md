@@ -7,3 +7,4 @@
 ## 📫 How to reach me:
 - LinkedIn: [https://www.linkedin.com/in/charleskasu/](https://www.linkedin.com/in/charleskasu/)
 - Facebook: [https://www.facebook.com/wlosquantum/](https://www.facebook.com/wlosquantum/)
+- Email: wlosekmarcel@gmail.com
