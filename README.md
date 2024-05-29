@@ -1,5 +1,4 @@
-# Hi, I'm @CharlesKasu - Junior Developer based in Krakow, Poland. I'm a graduate of Electronics and Telecommunication at AGH University of Science and Technology.
-
+-👋 Hi, I'm @CharlesKasu - Junior Developer based in Krakow, Poland. I'm a graduate of Electronics and Telecommunication at AGH University of Science and Technology.
 - 💻 I have a passion for both front-end and back-end development, with a strong focus on JavaScript and TypeScript.
 - 🌱 I am continuously learning and improving my skills to stay up-to-date with the latest technologies.
 - 🚀 Currently, I am working on enhancing my expertise in web development and contributing to open source projects.
